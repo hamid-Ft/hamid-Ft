@@ -4,7 +4,7 @@
 
 I'm a junior react developer
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/hamid-Ft/hamid-Ft/blob/master/devcard.svg" width="400" alt="Hamid Ft's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/hamid-Ft/hamid-Ft/blob/main/devcard.svg" width="400" alt="Hamid Ft's Dev Card"/></a>
 
 ## 🔗 Links
 
