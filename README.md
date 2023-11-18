@@ -4,6 +4,8 @@
 
 I'm a junior react developer
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/hamid-Ft/hamid-Ft/blob/master/devcard.svg" width="400" alt="Hamid Ft's Dev Card"/></a>
+
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://niklinkagency.com/projects)
