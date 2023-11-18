@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hi, I'm Hamid! 👋
 
-<!--
-**hamid-Ft/hamid-Ft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a junior react developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://niklinkagency.com/projects)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamidft/)
+
+## Other Common Github Profile Sections
+
+👩‍💻 I'm currently working on admin dashboard project see [here](https://github.com/hamid-Ft/admin-dashboard)
+
+🧠 I'm currently learning nextJs
+
+## 🛠 Skills
+
+WordPress dev , React , tailwind
+
+## Author
+
+- [@hamid-Ft](https://www.github.com/hamid-Ft)
+
+For additional information or questions, feel free to contact me:
+
+- Email: hamidfattahi.a@gmail.com
+
+Enjoy exploring assembly-ai App!
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
