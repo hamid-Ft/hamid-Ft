@@ -13,7 +13,7 @@ I'm a junior react developer
 
 ## Other Common Github Profile Sections
 
-👩‍💻 I'm currently working on admin dashboard project see [here](https://github.com/hamid-Ft/admin-dashboard)
+👩‍💻 I'm currently working on admin dashboard project see [here](https://github.com/hamid-Ft/classbon)
 
 🧠 I'm currently learning nextJs
 
