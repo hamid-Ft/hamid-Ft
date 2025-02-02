@@ -14,6 +14,16 @@ I've been learning to code for 5 years, start as a wordpress developer and conti
 * 🤝  I'm open to collaborating on any large scale startup challanging NextJs env ideas
 * ⚡  wish to live in van with starlink net and a dog
 
+### ACTIVITY
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+
+
 ### Skills
 
 
