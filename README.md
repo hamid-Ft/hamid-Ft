@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hamid
 =============================================================================================================================
 
-FullStack NextJs Developer
+FrontEnd Developer
 --------------------------
 
 I've been learning to code for 5 years, start as a wordpress developer and continue to learn bpms app to deliver large erp customized applications, and now i do fullstack nextJs and focuing on my startup ideas an aps ...
