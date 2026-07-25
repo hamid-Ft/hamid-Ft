@@ -7,10 +7,10 @@ FrontEnd Developer
 I've been learning to code for 5 years, start as a wordpress developer and continue to learn bpms app to deliver large erp customized applications, and now i do fullstack nextJs and focuing on my startup ideas an aps ...
 
 * 🌍  I'm based in Tehran
-* 🖥️  See my portfolio at [zock.studio](http://zock.studio)
+* 🖥️  See my portfolio at [MoonLancer](https://moonlancer.ir)
 * ✉️  You can contact me at [hamidfattahi.a@gmail.com](mailto:hamidfattahi.a@gmail.com)
-* 🚀  I'm currently working on [zock.studio](http://zock.studio)
-* 🧠  I'm learning Expo , Electron
+* 🚀  I'm currently working on [zarozamin.ir](https://zarozamin.ir)
+* 🧠  I'm learning Expo , Tauri
 * 🤝  I'm open to collaborating on any large scale startup challanging NextJs env ideas
 * ⚡  wish to live in van with starlink net and a dog
 
